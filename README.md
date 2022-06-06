@@ -6,4 +6,4 @@ My LinkedIn Profile: <a href="https://www.linkedin.com/in/souravrungta" target="
 
 
 SPSGP-10628-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges
-https://github.com/smartinternz02/SPSGP-10628-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges/blob/main/Salesforce%20Developer%20Catalyst%20Self%20Learning%20Super%20Badges/My%20doc.pdf
+https://github.com/smartinternz02/SPSGP-10628-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges/blob/main/Salesforce%20Developer%20Catalyst%20Self%20Learning%20Super%20Badges/SPSGP-10628-Salesforce%20Developer%20Catalyst%20Self-Learning%20%26%20Super%20Badges.pdf
